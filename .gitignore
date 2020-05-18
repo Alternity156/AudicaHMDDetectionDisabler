@@ -1,0 +1,6 @@
+
+*.cache
+*.CopyComplete
+HMDDetectionDisabler/obj/Release/HMDDetectionDisabler.csproj.FileListAbsolute.txt
+*.dll
+*.pdb
