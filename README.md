@@ -1,0 +1,2 @@
+# AudicaHMDDetectionDisabler
+ Disables HMD detection
